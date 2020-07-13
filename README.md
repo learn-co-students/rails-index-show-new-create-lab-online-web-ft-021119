@@ -10,6 +10,7 @@
 6. Use route helpers in a `redirect_to`
 7. Build a new form with a `form_tag`
 
+ rails generate controller NAME [action action] [options]
 
 ## Instructions
 
